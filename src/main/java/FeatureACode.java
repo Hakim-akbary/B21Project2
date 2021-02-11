@@ -4,6 +4,7 @@ public class FeatureACode {
 
 
         System.out.println("Awesome for A started");
+        System.out.println("\"B21\" = " + "B21");
     }
 
 }
